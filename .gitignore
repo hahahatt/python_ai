@@ -3,4 +3,5 @@ __pycache__/
 *.env
 .env
 *.zip
-.csv
+*.csv
+*.pdf
